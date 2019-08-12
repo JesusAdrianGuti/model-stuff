@@ -1,0 +1,46 @@
+Project2_Problem1
+ 
+ Jacobi Method
+ Number of Iteraions 
+    14
+
+ Solution 
+   0.999957159683894
+  -0.999957159683894
+   1.000002351327022
+  -0.999927031921809
+
+ 
+ Gauss-Seidel method 
+ Number of Iteraions 
+     7
+
+ Solution 
+   0.999892029362442
+  -0.999912547938962
+   1.000046963071954
+  -0.999927031921809
+
+ 
+ SOR Method, w =1.1 
+ Number of Iteraions 
+     4
+
+ Solution 
+   1.000599504577089
+  -1.000259299850467
+   0.999955199080182
+  -1.000177108004062
+
+ 
+ SOR Method, w = 2.0 
+ Number of Iteraions 
+   100
+
+ Solution 
+   2.111773074279102
+  -1.116509364910747
+   1.489609661440053
+  -2.428795965269879
+
+diary off
